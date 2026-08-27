@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://rider-labor-hansen-cradle.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://related-celebs-references-bible.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-26 22:48:37 UTC
+Created   : 2026-08-27 06:32:13 UTC
 =======================================================
