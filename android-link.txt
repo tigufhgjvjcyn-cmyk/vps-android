@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tulsa-plots-sussex-trembl.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://optional-cleaner-refurbished-million.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-03 22:16:19 UTC
+Created   : 2026-09-04 02:25:31 UTC
 =======================================================
