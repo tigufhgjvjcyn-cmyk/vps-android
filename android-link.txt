@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://patches-medicines-recruiting-distributed.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://directive-revealed-doe-tries.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-13 02:33:40 UTC
+Created   : 2026-09-13 10:05:47 UTC
 =======================================================
