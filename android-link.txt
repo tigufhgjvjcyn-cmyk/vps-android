@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://polished-pressing-transcription-exterior.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://prototype-eng-albuquerque-rounds.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-17 14:46:06 UTC
+Created   : 2026-09-17 18:55:17 UTC
 =======================================================
