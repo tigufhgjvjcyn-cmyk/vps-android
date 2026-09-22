@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bean-rebel-reliability-norm.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://determine-mart-analysts-enter.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-22 14:29:41 UTC
+Created   : 2026-09-22 18:38:49 UTC
 =======================================================
