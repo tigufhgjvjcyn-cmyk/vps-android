@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sam-nutrition-receptor-association.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://regarded-counted-usually-chicken.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-29 23:30:37 UTC
+Created   : 2026-09-30 03:26:49 UTC
 =======================================================
