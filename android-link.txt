@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cookies-pennsylvania-sega-question.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://heights-geometry-regression-server.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-30 11:01:44 UTC
+Created   : 2026-09-30 19:57:35 UTC
 =======================================================
