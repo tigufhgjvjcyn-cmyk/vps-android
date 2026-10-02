@@ -1,0 +1,17 @@
+{
+  "1553344711383580672": {
+    "welcome": {
+      "channelId": "1554478203521867819",
+      "message": "╔══════════════════════════════════════╗\n        ☁️  WELCOME TO CLOUD GAMES  ☁️\n╚══════════════════════════════════════╝\n\n✨ Xin chào {user}!\n\n🎮 Chào mừng bạn chính thức gia nhập\n        **{server}**\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n🌟 Bạn là thành viên thứ **{membercount}**!\n🔥 Hãy cùng mọi người:\n> 🎮 Chơi game • 💬 Trò chuyện • 🏆 Tham gia Event\n> 🎁 Săn Giveaway • 🤝 Kết bạn • ☁️ Chill cùng Cloud Games\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n📜 Đầu tiên, hãy đọc:\n📖 #rules\n📢 #announcements\n\n🎫 Cần hỗ trợ?\n→ Tạo **Ticket** để đội ngũ Cloud Support giúp bạn.\n\n🎁 Đừng bỏ lỡ:\n→ **Event & Giveaway** đang diễn ra trong server!\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n💎 Chúc bạn có một khoảng thời gian thật tuyệt\n   tại **CLOUD GAMES**!\n\n> ☁️ *Enter the cloud. Play beyond limits.* ☁️\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n👑 Được xây dựng & quản lý bởi Cloud Games"
+    },
+    "autoRole": "1554478148148658246",
+    "automod": {
+      "enabled": true,
+      "links": true,
+      "invites": true,
+      "caps": true,
+      "spam": true,
+      "whitelist": []
+    }
+  }
+}

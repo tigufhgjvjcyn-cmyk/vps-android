@@ -1,0 +1,18 @@
+{
+  "name": "cloud-games-auto-setup-v7-fixed",
+  "version": "7.0.0",
+  "private": true,
+  "description": "Cloud Games Discord 100-command Server Setup, Moderation, Events, Giveaways, AutoMod and Community Management Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node --check src/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^16.6.1"
+  }
+}
